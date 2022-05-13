@@ -1,0 +1,6 @@
+telebot==0.0.4
+pyjokes==0.6.0
+googletrans==4.0.0rc1
+requests==2.26.0
+bs4==0.0.1
+beautifulsoup4==4.9.3
